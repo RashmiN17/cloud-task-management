@@ -16,6 +16,46 @@ Developed a cloud-enabled platform to manage, assign, and track tasks within tea
 - Reduced dependency on emails and manual tracking.
 - Enhanced team accountability and real-time collaboration.
 
+- 🚀 Features
+
+### 👥 User Management
+- Role-based access (Admin, Team Lead, Team Member)
+- Secure login/logout and user sessions
+
+### 📋 Task Management
+- Create, assign, edit, and delete tasks
+- Set deadlines, priorities, and categories
+- Attach files to tasks
+
+### 🗂️ Task Views
+- Kanban board: To Do, In Progress, Completed
+- Task status tracking and progress bar
+
+### 🔔 Notifications & Alerts
+- In-app and email notifications for task updates
+- Deadline reminders
+
+### 🗨️ Collaboration
+- Comment on tasks
+- Mention teammates using `@username`
+- Attach files in comments
+
+### 📊 Dashboard & Reports
+- Project stats and task charts using Highcharts
+- Export task history to PDF/Excel
+- Weekly performance summaries
+
+### 🔍 Search & Filter
+- Search tasks by title, user, or status
+- Filter by deadline, priority, and tags
+
+### 📆 Calendar Integration
+- View task schedule in calendar format
+- Set recurring tasks
+
+---
+
+
 ## 🛠️ Technologies Used
 - Angular
 - Spring Boot
